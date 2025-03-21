@@ -6,7 +6,7 @@
 - Find me in Ottawa, Ontario, Canada
 - Love coding and attending hackathons
 - Competitive Badminton Player!
-- Currently grinding High Seas (Hack Club)
+- Currently grinding Hack Club events
 
 
 <p align="center">
