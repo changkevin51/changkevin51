@@ -2,7 +2,7 @@
 
 ### :grin: &nbsp;About Me
 
-- Grade 11 High school student at Merivale High School (IB Programme)
+- Grade 12 High school student at Merivale High School (IB Programme)
 - Find me in Ottawa, Ontario, Canada
 - Love coding and attending hackathons
 - Competitive Badminton Player!
