@@ -2,7 +2,7 @@
 
 ### :grin: &nbsp;About Me
 
-- Incoming Mathematics student the University of Waterloo
+- Mathematics student at the University of Waterloo
 - Find me in Ottawa, Ontario, Canada
 - Love coding and attending hackathons
 - Competitive Badminton Player!
