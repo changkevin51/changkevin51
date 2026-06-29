@@ -1,4 +1,4 @@
-<img src="github-header-image.png"></img>
+<img src="github-header-banner.png"></img>
 
 ### :grin: &nbsp;About Me
 
