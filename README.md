@@ -2,7 +2,7 @@
 
 ### :grin: &nbsp;About Me
 
-- Grade 12 High school student at Merivale High School (IB Programme)
+- Incoming Mathematics student the University of Waterloo
 - Find me in Ottawa, Ontario, Canada
 - Love coding and attending hackathons
 - Competitive Badminton Player!
